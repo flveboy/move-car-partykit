@@ -1,0 +1,8 @@
+{
+  "name": "move-car-notice-partykit",
+  "main": "partykit-server.ts",
+  "compatibilityDate": "2025-01-01",
+  "vars": {
+    "NODE_ENV": "production"
+  }
+}

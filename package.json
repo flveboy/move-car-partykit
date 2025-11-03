@@ -1,0 +1,17 @@
+{
+  "name": "move-car-notice-partykit",
+  "version": "1.0.0",
+  "description": "PartyKit server for Move Car Notice real-time messaging",
+  "type": "module",
+  "scripts": {
+    "dev": "partykit dev",
+    "deploy": "partykit deploy",
+    "start": "partykit start"
+  },
+  "dependencies": {
+    "partykit": "^0.0.115"
+  },
+  "devDependencies": {
+    "@types/node": "^20"
+  }
+}
